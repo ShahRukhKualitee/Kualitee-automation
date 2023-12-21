@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Defects created successfully</name>
+   <tag></tag>
+   <elementGuidId>957996f7-f62c-49a4-b097-4ce5b5e93357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='toastr-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c1-19.to-message.toastr-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>caa570d9-5000-4ec7-8aa1-0814b6eba77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-19 to-message toastr-message ng-star-inserted</value>
+      <webElementGuid>884c098a-9e16-4362-8bca-87d89794da01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Defects created successfully</value>
+      <webElementGuid>b1f032a1-a578-4484-8f5c-7d2d85c86c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastr-container&quot;)/div[@class=&quot;ng-trigger ng-trigger-inOut ng-tns-c1-19 toastr toastr-success ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-19&quot;]/span[@class=&quot;ng-tns-c1-19 to-message toastr-message ng-star-inserted&quot;]</value>
+      <webElementGuid>af4c19b7-1f90-456d-9564-b675d07517cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//*[@id='toastr-container']/div/div[2]/span</value>
+      <webElementGuid>a404f0d7-5e00-48cd-b48b-f1a1f68b801c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/span</value>
+      <webElementGuid>665fa874-3d48-4e99-9eb4-d82ca95507cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Defects created successfully' or . = 'Defects created successfully')]</value>
+      <webElementGuid>043f8f88-9bcd-4284-afd0-9313b877fe24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_form-row n-row</name>
+   <tag></tag>
+   <elementGuidId>7502b182-2a68-492c-93a9-282d940504a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2024ddc8-953b-442f-8121-6f83bff7ed82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-row n-row</value>
+      <webElementGuid>b2cb8b49-cfbe-45af-8ed5-b69cc9d340c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-login[1]/div[@class=&quot;login-wrapper clearfix&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;login-visual&quot;]/div[@class=&quot;login-form-holder&quot;]/div[@class=&quot;form-row n-row&quot;]</value>
+      <webElementGuid>ad266503-4ecc-4c66-b138-8e6c864357ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>ae0cfe82-8741-4c91-aea4-d4ee58ca8637</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

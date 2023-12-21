@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Browse Drag and Drop here</name>
+   <tag></tag>
+   <elementGuidId>e52cc881-1180-4a84-9d5f-43728114d15d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-uploader/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1be8180-cc2a-471b-ac16-e175dea6476d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-wrapper</value>
+      <webElementGuid>fd7b9134-bae1-4a7f-aa10-29bb7eaaf59f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse Drag and Drop here </value>
+      <webElementGuid>6b7c9cd3-dffa-4110-ae41-91cf8b822ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography dialog-open&quot;]/app-root[1]/block-ui[1]/app-defect-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[1]/app-csv-import[1]/app-popup-modal[@class=&quot;ng-star-inserted&quot;]/ngx-smart-modal[1]/div[@class=&quot;overlay ng-star-inserted nsm-overlay-open&quot;]/div[@class=&quot;nsm-dialog nsm-dialog-animation-fade nsm-dialog-open&quot;]/div[@class=&quot;nsm-content&quot;]/div[@class=&quot;nsm-body&quot;]/div[@class=&quot;add_user_model&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;popup_margin_wrapper&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/form[@class=&quot;w-100 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;form-group&quot;]/app-uploader[1]/div[@class=&quot;uploadFileContainer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group w-100&quot;]/div[1]/div[@class=&quot;dropzone&quot;]/div[@class=&quot;text-wrapper&quot;]</value>
+      <webElementGuid>85cd9a19-3075-4af9-aaad-5440f2c53791</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-uploader/div/div/div/div/div/div</value>
+      <webElementGuid>b7878fa7-15ca-468e-9dc8-91f858019209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Browse Drag and Drop here ' or . = 'Browse Drag and Drop here ')]</value>
+      <webElementGuid>0b3d3a2d-8661-4685-93bb-dd96479404b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
