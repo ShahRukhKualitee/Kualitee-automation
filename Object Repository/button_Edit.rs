@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>d3bd9a52-76b3-439e-bb77-4b8f60ef1975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[2]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.overlayActions > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>429a9b5b-7fdd-4e3f-b449-71436dcc50c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit </value>
+      <webElementGuid>bd05d0c7-1986-43de-8895-05fbfff85182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-defect-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;overlaySidePanel&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;overlayHead&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;overlayActions&quot;]/button[1]</value>
+      <webElementGuid>82be0fa6-c4e7-4c2e-b20d-abcff64c2fd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/button</value>
+      <webElementGuid>ae56125d-137c-42d1-a747-b24066cda05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Edit ' or . = ' Edit ')]</value>
+      <webElementGuid>7a20844b-0d6b-4e87-bbb9-817e350681cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

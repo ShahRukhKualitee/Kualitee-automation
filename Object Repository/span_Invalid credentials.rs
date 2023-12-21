@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid credentials</name>
+   <tag></tag>
+   <elementGuidId>a9c37d6a-d4cf-4351-bff0-897fd6b65a5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c1-0.to-message.toastr-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c07910ec-ad47-416f-869f-626f4281438b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-0 to-message toastr-message ng-star-inserted</value>
+      <webElementGuid>f55f232d-cb5f-42ce-bac1-e908db495283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid credentials.</value>
+      <webElementGuid>9462e1d5-3860-4146-87d6-e304d892c34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastr-container&quot;)/div[@class=&quot;ng-trigger ng-trigger-inOut ng-tns-c1-0 toastr toastr-error ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-0&quot;]/span[@class=&quot;ng-tns-c1-0 to-message toastr-message ng-star-inserted&quot;]</value>
+      <webElementGuid>8c39f5db-2c26-4d87-a302-fef1b19ec39a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      <webElementGuid>e68affdc-2e3c-4d59-b2a8-989dda2858f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>b59a536e-17b1-4854-a805-d3d270f326ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid credentials.' or . = 'Invalid credentials.')]</value>
+      <webElementGuid>40b52cce-7dbd-4e35-818d-76ae1566d780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

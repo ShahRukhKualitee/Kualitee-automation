@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputemail_id</name>
+   <name>select_SelectPending Approval Approved Rejected</name>
    <tag></tag>
-   <elementGuidId>5e2efa52-615f-41f0-92c8-8bf7b3bbda3b</elementGuidId>
+   <elementGuidId>26cebfbc-bff2-492e-b060-78e8538a5250</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email_id']</value>
+         <value>//select[@id='tc_status']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email_id</value>
+         <value>#tc_status</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>65e751c0-69f1-447f-879b-a3a091068717</webElementGuid>
+      <value>select</value>
+      <webElementGuid>70565c06-5b81-42d8-abe9-b06eea3e96de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>425e8859-abf0-4f71-beea-7ef749ba8da7</webElementGuid>
+      <value>tc_status</value>
+      <webElementGuid>48dbbc35-f4a5-4265-82e4-934279f7951e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>58c3d1f1-83fb-4c0b-a692-dc72e6d9c543</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>formcontrolname</name>
-      <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>f22499dd-5254-4700-952b-4cb081ab46f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>domain@kualitee.com</value>
-      <webElementGuid>1b84b244-2f6a-43f7-aefb-4979152258ae</webElementGuid>
+      <value>tc_status</value>
+      <webElementGuid>c8beffcc-5969-4528-8f2a-787b149e3335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-field form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>ade082ca-50b9-4fcb-a671-327e083f92e5</webElementGuid>
+      <value>form-control ng-tns-c127-13 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>909de784-6971-4ced-8d6e-6d05d986d391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectPending Approval Approved Rejected </value>
+      <webElementGuid>b5a5f42b-0466-4a07-a357-bbeaae95ad1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_id&quot;)</value>
-      <webElementGuid>b5bee820-f683-4cf3-86e7-bbdbf78ff2a3</webElementGuid>
+      <value>id(&quot;tc_status&quot;)</value>
+      <webElementGuid>72713b56-c8ae-40f3-a8f9-2490926b082b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email_id']</value>
-      <webElementGuid>6ef6199b-0912-47e6-94fd-7ab98a11002b</webElementGuid>
+      <value>//select[@id='tc_status']</value>
+      <webElementGuid>f1fca1d7-20d3-41d9-a4bd-f4a453434cf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>2a414ba1-ae15-4d91-b7c1-0e01b3ab0f79</webElementGuid>
+      <value>//div[7]/div/div/select</value>
+      <webElementGuid>cf9831d0-1db0-455a-aece-3f6661bf5c4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email_id' and @type = 'text' and @placeholder = 'domain@kualitee.com']</value>
-      <webElementGuid>4567e3ec-964b-45b1-9678-9ec07303a8cb</webElementGuid>
+      <value>//select[@id = 'tc_status' and @name = 'tc_status' and (text() = 'SelectPending Approval Approved Rejected ' or . = 'SelectPending Approval Approved Rejected ')]</value>
+      <webElementGuid>0f99b1e7-9e33-4134-a057-24afa93c1bff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

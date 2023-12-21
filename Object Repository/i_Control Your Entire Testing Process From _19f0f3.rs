@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Control Your Entire Testing Process From _19f0f3</name>
+   <tag></tag>
+   <elementGuidId>7616b0bf-a807-4b81-9385-a9a2a1e8197f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1d7f481f-a026-4ae2-b341-8533137497f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Control Your Entire Testing Process From One Tool</value>
+      <webElementGuid>4e5dccfb-1d1a-44a9-b216-87ee226d8c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-login[1]/div[@class=&quot;login-wrapper clearfix&quot;]/div[@class=&quot;login-sidebar&quot;]/h1[1]/i[1]</value>
+      <webElementGuid>201cb2af-4d14-4d38-950b-86a2c2f97900</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>7c27387e-e53f-4ed8-a483-3e4891d06cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'Control Your Entire Testing Process From One Tool' or . = 'Control Your Entire Testing Process From One Tool')]</value>
+      <webElementGuid>b10b5db7-8343-4bde-8166-4be7eb20b786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

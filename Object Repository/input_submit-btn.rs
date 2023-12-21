@@ -6,12 +6,12 @@
    <elementGuidId>c9f419bb-d19e-4592-bee7-608990f55627</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.submit-btn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@value='Let Me In']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.submit-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>860dae94-6a66-4e13-8c3d-6043520599c4</webElementGuid>
+      <webElementGuid>733de501-5b21-40ec-ade9-c62a488ae9c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>b5bad74b-4d81-40ab-8a82-4cd65c0d85f6</webElementGuid>
+      <webElementGuid>3a139ebf-3bce-476b-8924-a6ce81e1a960</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>submit-btn</value>
-      <webElementGuid>d6822108-815e-4801-81b2-042d9bcb4e97</webElementGuid>
+      <webElementGuid>91448279-323a-4ddd-98c1-faf8e39e7554</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Let Me In</value>
-      <webElementGuid>3307ed26-b22e-4856-bde9-392c069fefc0</webElementGuid>
+      <webElementGuid>84b4ade4-4a4e-4dd8-8ac7-d231295cb9df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-login[1]/div[@class=&quot;login-wrapper clearfix&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;login-visual&quot;]/div[@class=&quot;login-form-holder&quot;]/div[@class=&quot;form-row n-row&quot;]/input[@class=&quot;submit-btn&quot;]</value>
-      <webElementGuid>8d2d6b8d-5ea1-4881-b003-622e47e67c74</webElementGuid>
+      <webElementGuid>d4fefd7e-1f13-4955-b4f6-5fd47a7f98b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Let Me In']</value>
-      <webElementGuid>f8bb2f45-58f0-4ce5-9667-a0096f029a10</webElementGuid>
+      <webElementGuid>dd27f49a-0ebe-46d6-8045-c571acb88a67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>3b0093b6-5f4e-45b3-99fd-32180034487f</webElementGuid>
+      <webElementGuid>37faf3bf-8112-4185-bb07-44baeafa3057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>64589655-5261-4bee-9764-5ca18faaaa86</webElementGuid>
+      <webElementGuid>eb9dfdad-ccae-4759-821d-9dee34ba76f9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

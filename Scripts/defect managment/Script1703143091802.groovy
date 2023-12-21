@@ -21,47 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://provf.kualitee.com/')
 
-WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
+WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'Perf/123')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
+
+WebUI.click(findTestObject('Object Repository/i_Control Your Entire Testing Process From _19f0f3'))
+
+WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
+
+WebUI.click(findTestObject('Object Repository/i_Control Your Entire Testing Process From _19f0f3'))
 
 WebUI.click(findTestObject('Object Repository/input_submit-btn'))
 
-WebUI.click(findTestObject('Object Repository/html_Kualitee 3.0 Pre Production        (fu_ff11d5'))
-
-WebUI.click(findTestObject('Object Repository/div_block-ui-wrapper block-ui-main active'))
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://provf.kualitee.com/')
-
-WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
-
-WebUI.sendKeys(findTestObject('Object Repository/inputpassword'), Keys.chord(Keys.ENTER))
-
 WebUI.click(findTestObject('Object Repository/span'))
 
-WebUI.click(findTestObject('Object Repository/a_br-sb-buttons'))
+WebUI.click(findTestObject('Object Repository/a_DEF-278045'))
 
-WebUI.click(findTestObject('Object Repository/a_Import Defects'))
+WebUI.click(findTestObject('Object Repository/button_Edit'))
 
-WebUI.click(findTestObject('Object Repository/span_Browse'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/select_SelectBuild2Build3build1'), '21227', true)
 
-WebUI.click(findTestObject('Object Repository/div_Browse Drag and Drop here'))
+WebUI.click(findTestObject('Object Repository/button_Update'))
 
-WebUI.click(findTestObject('Object Repository/div_Browse Drag and Drop here'))
-
-WebUI.click(findTestObject('Object Repository/span_Browse'))
-
-WebUI.click(findTestObject('Object Repository/button_Next'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_Assign To provf faran.khurshid0002'), '16970', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_Assign To provf faran.khurshid0002'), '16970', true)
-
-WebUI.click(findTestObject('Object Repository/button_Next'))
+WebUI.click(findTestObject('Object Repository/div_Success'))
 

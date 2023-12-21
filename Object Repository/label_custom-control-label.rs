@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_custom-control-label</name>
+   <tag></tag>
+   <elementGuidId>5d52f5a4-e890-42ae-b326-19646bba27fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-mdc-cell.mdc-data-table__cell.cdk-cell.cdk-column-id.mat-column-id.ng-star-inserted > div.custom-control.custom-checkbox.ng-star-inserted > label.custom-control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d5e54e8d-0fc5-43a1-9497-9f0d97be7a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>311aff65-c87c-4a69-a79a-7460031b1aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>is_included-0</value>
+      <webElementGuid>5fd647cc-8853-4988-a66b-f574de958a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-test-case-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;transition-width col-lg-12&quot;]/div[@class=&quot;table_wid&quot;]/div[@class=&quot;siteTableWrapper table-responsive&quot;]/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table mat-sort siteTable&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row position-relative transfarm ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell cdk-column-id mat-column-id ng-star-inserted&quot;]/div[@class=&quot;custom-control custom-checkbox ng-star-inserted&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>169e4d96-28b0-4f3a-b2a0-cd197ebed31a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/label</value>
+      <webElementGuid>592882f9-f848-4b47-bc73-55160f2ad9e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

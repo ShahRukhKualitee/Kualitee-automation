@@ -21,47 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://provf.kualitee.com/')
 
-WebUI.click(findTestObject('Object Repository/inputemail_id'))
-
 WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), '77UqVWyPcUqqAdTYkhjGGQ==')
-
-WebUI.sendKeys(findTestObject('Object Repository/inputpassword'), Keys.chord(Keys.ENTER))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Defects created'), 10)
-
-alert = WebUI.getText(findTestObject('Object Repository/Defects created'))
-
-System.out.println(alert)
-
-String expectedText = 'Invalid credentials.'
-
-if (!(expectedText.equals(alert))) {
-    // Strings are not equal
-    KeywordUtil.markFailed("Text comparison failed! Expected: $expectedText, Actual: $actualText")
-}
 
 WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
 
 WebUI.click(findTestObject('Object Repository/input_submit-btn'))
 
-WebUI.click(findTestObject('Object Repository/span'))
+WebUI.click(findTestObject('Object Repository/text_Blocker 1 (25.0 )Blocker 1 (25.0 )'))
 
-WebUI.click(findTestObject('Object Repository/a_New Defect'))
+WebUI.click(findTestObject('Object Repository/a_DEF-272286'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_Select Blocker Major Minor'), 'Major', true)
+WebUI.switchToWindowTitle('404 Not Found')
 
-WebUI.setText(findTestObject('Object Repository/input_description'), 'demo katalon studio')
+WebUI.click(findTestObject('Object Repository/h1_404 Not Found'))
 
-WebUI.click(findTestObject('Object Repository/button_Save'))
+WebUI.switchToWindowTitle('Kualitee 3.0 Pre Production')
 
-//WebUI.verifyElementNotPresent(findTestObject('Object Repository/div_block-ui-wrapper block-ui-main active'), 10)
-WebUI.waitForElementPresent(findTestObject('Object Repository/span_Defects created successfully'), 10)
+WebUI.click(findTestObject('Object Repository/button_Close'))
 
-text = WebUI.getText(findTestObject('Object Repository/span_Defects created successfully'))
+WebUI.click(findTestObject('Object Repository/span_Test Cases'))
 
-System.out.println(text)
+WebUI.click(findTestObject('Object Repository/a_4'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/div_1  4 of 4'))
 

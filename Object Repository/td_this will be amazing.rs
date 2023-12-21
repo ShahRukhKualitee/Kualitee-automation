@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_this will be amazing</name>
+   <tag></tag>
+   <elementGuidId>ce7ab2dc-ee73-49bb-aff3-9c451f6c17b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-mdc-cell.mdc-data-table__cell.cdk-cell.dateField.cdk-column-summary.mat-column-summary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a04a164d-1d9b-4d13-8729-208d5a5661f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-cell mdc-data-table__cell cdk-cell dateField cdk-column-summary mat-column-summary ng-star-inserted</value>
+      <webElementGuid>cafb58d7-d3bb-4d0d-acb8-2235bf3ee360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>52e0fd6d-0cbe-4264-b306-b30531064c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>this will be amazing</value>
+      <webElementGuid>9a98cf89-c6fc-459d-899b-de98dff452c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-test-case-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;transition-width col-lg-12&quot;]/div[@class=&quot;table_wid&quot;]/div[@class=&quot;siteTableWrapper table-responsive&quot;]/table[@class=&quot;mat-mdc-table mdc-data-table__table cdk-table mat-sort siteTable&quot;]/tbody[@class=&quot;mdc-data-table__content&quot;]/tr[@class=&quot;mat-mdc-row mdc-data-table__row cdk-row position-relative transfarm ng-star-inserted&quot;]/td[@class=&quot;mat-mdc-cell mdc-data-table__cell cdk-cell dateField cdk-column-summary mat-column-summary ng-star-inserted&quot;]</value>
+      <webElementGuid>25d1d136-01be-4f31-9e58-09b8f3de92dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>f412cf2a-e49e-4916-9a21-08e993c0bbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'this will be amazing' or . = 'this will be amazing')]</value>
+      <webElementGuid>c8a441b0-9382-441b-8fe2-795a3c447aa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

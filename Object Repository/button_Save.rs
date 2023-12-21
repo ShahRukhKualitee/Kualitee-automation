@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='defect-create-submit-btn']</value>
+         <value>//button[@id='test-create-submit-btn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#defect-create-submit-btn</value>
+         <value>#test-create-submit-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>93389242-565f-4d39-bb2f-e47eee46f886</webElementGuid>
+      <webElementGuid>a631cd15-abed-4d96-860b-e8dc63077141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>defect-create-submit-btn</value>
-      <webElementGuid>6a8ac181-046d-4c3c-95f1-9be8ae68f84d</webElementGuid>
+      <value>test-create-submit-btn</value>
+      <webElementGuid>6a6ab9af-25d9-4471-b911-db517017cf6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>submit-btn</value>
-      <webElementGuid>7ddd91c4-dfeb-4f6f-a3af-e1bf9fc3611a</webElementGuid>
+      <value>submit-btn ng-tns-c127-13</value>
+      <webElementGuid>e66a7664-607d-43c7-99ef-5b04cc98b678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,38 +46,38 @@
       <name>text</name>
       <type>Main</type>
       <value> Save </value>
-      <webElementGuid>88c0fdde-2ff0-439f-8bad-3e34c6384248</webElementGuid>
+      <webElementGuid>4062fa91-5d83-440a-811b-220db5c73e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;defect-create-submit-btn&quot;)</value>
-      <webElementGuid>9a2999b2-5d58-46dd-a008-9e847e7f8ee2</webElementGuid>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-test-case-create[@class=&quot;ng-tns-c127-13 ng-star-inserted&quot;]/app-layout[@class=&quot;ng-tns-c127-13&quot;]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-tns-c127-13 ng-star-inserted&quot;]/div[@class=&quot;clearfix ng-tns-c127-13&quot;]/div[@class=&quot;create-project-form createTestCasePage ng-tns-c127-13&quot;]/div[@class=&quot;container ng-tns-c127-13&quot;]/form[@class=&quot;ng-tns-c127-13 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;col-12 ng-tns-c127-13&quot;]/div[@class=&quot;form-buttons clearfix btn-group ng-tns-c127-13&quot;]/button[@id=&quot;test-create-submit-btn&quot;]</value>
+      <webElementGuid>0457b832-e519-424f-aa06-641410653739</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='defect-create-submit-btn']</value>
-      <webElementGuid>d7a6ec59-79ad-4e99-9dcb-da71ef9843f3</webElementGuid>
+      <value>//button[@id='test-create-submit-btn']</value>
+      <webElementGuid>a61a78d8-3225-42aa-96d8-8c82fb1c8186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/button</value>
-      <webElementGuid>1fe37e9c-d867-4e53-80b7-cd62197a0895</webElementGuid>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>2fecc37e-b5ed-4a27-b0d1-304a13e0900f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'defect-create-submit-btn' and (text() = ' Save ' or . = ' Save ')]</value>
-      <webElementGuid>245f5302-1b44-4a9c-8903-620ec6960e15</webElementGuid>
+      <value>//button[@id = 'test-create-submit-btn' and (text() = ' Save ' or . = ' Save ')]</value>
+      <webElementGuid>49eec7bd-0eac-41d1-b51e-fa46fc3abfa2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

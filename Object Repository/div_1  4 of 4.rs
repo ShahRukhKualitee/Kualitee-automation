@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1  4 of 4</name>
+   <tag></tag>
+   <elementGuidId>2375c5f5-8e32-4dd7-b2cf-44844054d971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-paginator/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-paginator-range-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5bf2601-e59f-491d-b00c-4d440f1bd783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>15f0759b-0919-4f8b-8122-0edc3b612123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-paginator-range-label</value>
+      <webElementGuid>daae299d-bd34-4df9-8ad0-0d6e6756b096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1 – 4 of 4 </value>
+      <webElementGuid>81bc75b6-5c2a-44e4-bc2b-48df3a1fbc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-defect-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;transition-width col-lg-12&quot;]/div[@class=&quot;table_wid&quot;]/div[@class=&quot;pt-4 clearfix&quot;]/div[@class=&quot;siteTableWrapper table-responsive defects-table&quot;]/mat-paginator[@class=&quot;mat-mdc-paginator ng-star-inserted&quot;]/div[@class=&quot;mat-mdc-paginator-outer-container&quot;]/div[@class=&quot;mat-mdc-paginator-container&quot;]/div[@class=&quot;mat-mdc-paginator-range-actions&quot;]/div[@class=&quot;mat-mdc-paginator-range-label&quot;]</value>
+      <webElementGuid>501728ea-0895-4031-becc-2c50f5f579be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-paginator/div/div/div[2]/div</value>
+      <webElementGuid>29751588-6bbd-4151-9c83-c8ed5e4f7b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 1 – 4 of 4 ' or . = ' 1 – 4 of 4 ')]</value>
+      <webElementGuid>c0869aef-6612-41b5-bdbe-c9191c91412a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

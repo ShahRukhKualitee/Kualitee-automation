@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputemail_id</name>
+   <name>select_SelectOpen Tasks Ongoing Tasks Compl_640ee5</name>
    <tag></tag>
-   <elementGuidId>5e2efa52-615f-41f0-92c8-8bf7b3bbda3b</elementGuidId>
+   <elementGuidId>b360b3a2-167b-4595-8ada-9bfc2b7e8b71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email_id']</value>
+         <value>//select[@id='column_id']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email_id</value>
+         <value>#column_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>65e751c0-69f1-447f-879b-a3a091068717</webElementGuid>
+      <value>select</value>
+      <webElementGuid>bf59f2af-a462-4cfd-86f5-03948a57c396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>425e8859-abf0-4f71-beea-7ef749ba8da7</webElementGuid>
+      <value>column_id</value>
+      <webElementGuid>d3be296b-57f5-4fcf-b7ed-7bb50e41f12b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>58c3d1f1-83fb-4c0b-a692-dc72e6d9c543</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>formcontrolname</name>
-      <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>f22499dd-5254-4700-952b-4cb081ab46f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>domain@kualitee.com</value>
-      <webElementGuid>1b84b244-2f6a-43f7-aefb-4979152258ae</webElementGuid>
+      <value>column_id</value>
+      <webElementGuid>01f610c5-cf17-467d-a98e-c03760b65f89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-field form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>ade082ca-50b9-4fcb-a671-327e083f92e5</webElementGuid>
+      <value>form-control ng-tns-c127-13 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>50f64da8-0a3e-48e4-bf37-ae2e09984d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectOpen Tasks Ongoing Tasks Completed Tasks Tasks on Hold </value>
+      <webElementGuid>446e607c-a5ba-43d1-bbf4-66b411c3082c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_id&quot;)</value>
-      <webElementGuid>b5bee820-f683-4cf3-86e7-bbdbf78ff2a3</webElementGuid>
+      <value>id(&quot;column_id&quot;)</value>
+      <webElementGuid>a351efcc-70e2-41d1-b3f6-01d19d522ce1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email_id']</value>
-      <webElementGuid>6ef6199b-0912-47e6-94fd-7ab98a11002b</webElementGuid>
+      <value>//select[@id='column_id']</value>
+      <webElementGuid>cdc49260-6215-4ae3-89d5-679fbec0e785</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>2a414ba1-ae15-4d91-b7c1-0e01b3ab0f79</webElementGuid>
+      <value>//div[10]/div/div/select</value>
+      <webElementGuid>af90bca4-7a92-4800-bda1-62e7788af9b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email_id' and @type = 'text' and @placeholder = 'domain@kualitee.com']</value>
-      <webElementGuid>4567e3ec-964b-45b1-9678-9ec07303a8cb</webElementGuid>
+      <value>//select[@id = 'column_id' and @name = 'column_id' and (text() = 'SelectOpen Tasks Ongoing Tasks Completed Tasks Tasks on Hold ' or . = 'SelectOpen Tasks Ongoing Tasks Completed Tasks Tasks on Hold ')]</value>
+      <webElementGuid>ec8a5747-2d93-46d0-8635-7da1385df849</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span</name>
+   <name>h1_404 Not Found</name>
    <tag></tag>
-   <elementGuidId>36a7d480-1eb5-4688-b0a5-492a6e322f3a</elementGuidId>
+   <elementGuidId>d206c7d6-766b-4f12-90d4-2b28a81881a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='sidebar-holder-mobile']/ul/li[5]/a/span</value>
+         <value>//h1</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,31 +21,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>2120d0ea-9aba-4147-bbd7-b269862ceed0</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>1a609447-b9b0-467f-98ef-5a48ccc74de0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>404 Not Found</value>
+      <webElementGuid>2a0633f2-5e93-47eb-8b56-23a24122e674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sidebar-holder-mobile&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;br-sb-buttons&quot;]/span[1]</value>
-      <webElementGuid>302e5659-1855-40f2-8cf5-9bb75cc21edb</webElementGuid>
+      <value>/html[1]/body[1]/h1[1]</value>
+      <webElementGuid>23972ea8-c8f3-4587-9628-86789a991efc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[@id='sidebar-holder-mobile']/ul/li[5]/a/span</value>
-      <webElementGuid>e83aaae6-becc-4b94-a4e4-3e35f099580c</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>2e3c516e-5e93-4a50-a3eb-de39aafe63f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>36c3ce86-f032-489d-b129-9a6543c8a601</webElementGuid>
+      <value>//h1[(text() = '404 Not Found' or . = '404 Not Found')]</value>
+      <webElementGuid>98d339e3-aed4-47cd-bd15-31f32813b8eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

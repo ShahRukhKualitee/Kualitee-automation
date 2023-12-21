@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputemail_id</name>
+   <name>input_time</name>
    <tag></tag>
-   <elementGuidId>5e2efa52-615f-41f0-92c8-8bf7b3bbda3b</elementGuidId>
+   <elementGuidId>4b66b1f2-fd94-4318-a64c-57cc1e4af5e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email_id']</value>
+         <value>//input[@id='time']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email_id</value>
+         <value>#time</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65e751c0-69f1-447f-879b-a3a091068717</webElementGuid>
+      <webElementGuid>a4f7c7ab-c3db-49f0-8af7-b24f6e5068fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>425e8859-abf0-4f71-beea-7ef749ba8da7</webElementGuid>
+      <value>time</value>
+      <webElementGuid>013f1f6b-7594-40ba-9c91-625595fac465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,62 +38,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>58c3d1f1-83fb-4c0b-a692-dc72e6d9c543</webElementGuid>
+      <webElementGuid>5714a960-7a0d-42bd-b60d-c2e6947f8714</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>formcontrolname</name>
+      <name>name</name>
       <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>f22499dd-5254-4700-952b-4cb081ab46f6</webElementGuid>
+      <value>time</value>
+      <webElementGuid>1ea2993c-6226-4663-aa6f-ce400f67696e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>domain@kualitee.com</value>
-      <webElementGuid>1b84b244-2f6a-43f7-aefb-4979152258ae</webElementGuid>
+      <value>HH:MM</value>
+      <webElementGuid>5fb25b70-ebfb-465d-b1bd-59aae067a429</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-field form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>ade082ca-50b9-4fcb-a671-327e083f92e5</webElementGuid>
+      <value>form-control ng-tns-c127-13 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>37256f04-6a2e-4448-8b09-db589538f471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_id&quot;)</value>
-      <webElementGuid>b5bee820-f683-4cf3-86e7-bbdbf78ff2a3</webElementGuid>
+      <value>id(&quot;time&quot;)</value>
+      <webElementGuid>a98d588f-dc7d-40da-85c9-11df2247ffc3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email_id']</value>
-      <webElementGuid>6ef6199b-0912-47e6-94fd-7ab98a11002b</webElementGuid>
+      <value>//input[@id='time']</value>
+      <webElementGuid>9ac14729-0a62-4fde-9d91-d42ca80e473f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>2a414ba1-ae15-4d91-b7c1-0e01b3ab0f79</webElementGuid>
+      <value>//div[11]/div/input</value>
+      <webElementGuid>74050b71-113f-4921-a113-467e68b700df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email_id' and @type = 'text' and @placeholder = 'domain@kualitee.com']</value>
-      <webElementGuid>4567e3ec-964b-45b1-9678-9ec07303a8cb</webElementGuid>
+      <value>//input[@id = 'time' and @type = 'text' and @name = 'time' and @placeholder = 'HH:MM']</value>
+      <webElementGuid>8d7563e5-205b-4603-8072-4fcabf8d453a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

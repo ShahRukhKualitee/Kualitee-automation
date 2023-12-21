@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputemail_id</name>
+   <name>select_Select Requirement Title 1</name>
    <tag></tag>
-   <elementGuidId>5e2efa52-615f-41f0-92c8-8bf7b3bbda3b</elementGuidId>
+   <elementGuidId>087623d8-b849-46ae-855d-cb2f968e7425</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email_id']</value>
+         <value>//select[@id='requirement_id']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email_id</value>
+         <value>#requirement_id</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>65e751c0-69f1-447f-879b-a3a091068717</webElementGuid>
+      <value>select</value>
+      <webElementGuid>942e0cc9-bae1-45a4-8543-3e3e30814090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>425e8859-abf0-4f71-beea-7ef749ba8da7</webElementGuid>
+      <value>requirement_id</value>
+      <webElementGuid>5331bf56-e628-48a6-86f3-e6953b8edab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>58c3d1f1-83fb-4c0b-a692-dc72e6d9c543</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>formcontrolname</name>
-      <type>Main</type>
-      <value>email_id</value>
-      <webElementGuid>f22499dd-5254-4700-952b-4cb081ab46f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>domain@kualitee.com</value>
-      <webElementGuid>1b84b244-2f6a-43f7-aefb-4979152258ae</webElementGuid>
+      <value>requirement_id</value>
+      <webElementGuid>bdb749a5-a94f-4032-b67b-6f2307053bcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-field form-control ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>ade082ca-50b9-4fcb-a671-327e083f92e5</webElementGuid>
+      <value>form-control ng-tns-c127-13 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>5d8264d5-123c-476c-885c-70689c40bb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Requirement Title 1</value>
+      <webElementGuid>d242d72b-327d-40b1-b271-728ab3a8fa3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_id&quot;)</value>
-      <webElementGuid>b5bee820-f683-4cf3-86e7-bbdbf78ff2a3</webElementGuid>
+      <value>id(&quot;requirement_id&quot;)</value>
+      <webElementGuid>e4fd9577-ff29-4cd0-995d-5a2701bb2cd7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email_id']</value>
-      <webElementGuid>6ef6199b-0912-47e6-94fd-7ab98a11002b</webElementGuid>
+      <value>//select[@id='requirement_id']</value>
+      <webElementGuid>5549bad1-3439-4ecd-8135-7f9c9a74190f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>2a414ba1-ae15-4d91-b7c1-0e01b3ab0f79</webElementGuid>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>6c7a226e-719b-4175-80f5-1c2269603e7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email_id' and @type = 'text' and @placeholder = 'domain@kualitee.com']</value>
-      <webElementGuid>4567e3ec-964b-45b1-9678-9ec07303a8cb</webElementGuid>
+      <value>//select[@id = 'requirement_id' and @name = 'requirement_id' and (text() = 'Select Requirement Title 1' or . = 'Select Requirement Title 1')]</value>
+      <webElementGuid>9490c69d-6d2f-4fb7-a480-1df7b0c629c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

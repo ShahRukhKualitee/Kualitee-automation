@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>8614bf96-70bf-4e76-93ad-cbd94d89b315</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.submit-btn.cancel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>98b33dbd-0111-4fd7-838b-1bfdd2ac0dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-btn cancel</value>
+      <webElementGuid>7c59dbfb-adbd-40b7-9e51-aef5fefa1f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>f2278373-b956-4668-8ce4-2581ccfb4efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography dialog-open&quot;]/app-root[1]/block-ui[1]/app-dashboard-list[1]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/app-defect-list-quick-view[1]/app-popup-modal[@class=&quot;quickListModal&quot;]/ngx-smart-modal[1]/div[@class=&quot;overlay ng-star-inserted nsm-overlay-open&quot;]/div[@class=&quot;nsm-dialog nsm-dialog-animation-fade nsm-dialog-open&quot;]/div[@class=&quot;nsm-content&quot;]/div[@class=&quot;nsm-body&quot;]/div[@class=&quot;add_user_model add_user_model_two cus-width ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row delFont&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;add_btns text-center mb-4&quot;]/button[@class=&quot;submit-btn cancel&quot;]</value>
+      <webElementGuid>34140ab5-a2ba-47b4-8375-9457dcd178f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>9be1ce65-8728-4346-aa4f-0d057ca6a837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>36218eb1-9545-46d3-8620-c9c73aa5463b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

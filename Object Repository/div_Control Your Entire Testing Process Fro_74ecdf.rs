@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Control Your Entire Testing Process Fro_74ecdf</name>
+   <tag></tag>
+   <elementGuidId>05df8dee-9be9-49ec-94af-d551ec18bc33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-sidebar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71c78590-87b0-4f04-83ac-12420b2ac5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-sidebar</value>
+      <webElementGuid>fb774de3-3a0d-46f4-8faa-61622fc30d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Control Your Entire Testing Process From One ToolHappy Testing!© 2023 Kualitee</value>
+      <webElementGuid>1d599d20-37cb-497a-b26e-3318254d7d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/block-ui[1]/app-login[1]/div[@class=&quot;login-wrapper clearfix&quot;]/div[@class=&quot;login-sidebar&quot;]</value>
+      <webElementGuid>5f803e5e-24dc-4ac0-b32f-f7357f94f7f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>8e540d34-2b20-46a3-8b22-ee0a2855230a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Control Your Entire Testing Process From One ToolHappy Testing!© 2023 Kualitee' or . = 'Control Your Entire Testing Process From One ToolHappy Testing!© 2023 Kualitee')]</value>
+      <webElementGuid>8082b86b-526a-43f5-afdf-c6a0d0edfd63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

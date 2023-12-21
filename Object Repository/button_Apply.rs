@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply</name>
+   <tag></tag>
+   <elementGuidId>d445a630-b006-42b4-bd1a-767c044efe3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.submit-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d16efeef-5dda-4cb1-a397-3e35cd72cf6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-btn</value>
+      <webElementGuid>dfdbf2f1-9f54-4dff-9a02-4caaecd60e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply</value>
+      <webElementGuid>da3e978f-32f1-4087-9fb7-999623491e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography dialog-open&quot;]/app-root[1]/block-ui[1]/app-test-case-list[@class=&quot;ng-star-inserted&quot;]/app-layout[1]/div[@class=&quot;ng-main-wrapper&quot;]/div[@class=&quot;content-wrapper ng-star-inserted&quot;]/div[@class=&quot;clearfix&quot;]/div[1]/app-popup-modal[1]/ngx-smart-modal[1]/div[@class=&quot;overlay ng-star-inserted nsm-overlay-open&quot;]/div[@class=&quot;nsm-dialog nsm-dialog-animation-fade nsm-dialog-open&quot;]/div[@class=&quot;nsm-content&quot;]/div[@class=&quot;nsm-body&quot;]/div[@class=&quot;add_user_model add_user_model_two&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;popup_margin_wrapper&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;add_btns text-center col-sm-12 mt-3&quot;]/button[@class=&quot;submit-btn&quot;]</value>
+      <webElementGuid>cb5d1160-6944-4361-9de4-83925f57c427</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>dad4c5c5-1011-4ed1-8042-4c165f593a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Apply' or . = 'Apply')]</value>
+      <webElementGuid>09d21985-1166-48e4-ac08-b6484de1047c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
