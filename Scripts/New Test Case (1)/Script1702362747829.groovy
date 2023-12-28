@@ -43,7 +43,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI
 
 WebUI.sendKeys(findTestObject('Object Repository/inputpassword'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/span'))
+WebUI.click(findTestObject('Object Repository/span_1'))
 
 WebUI.click(findTestObject('Object Repository/a_br-sb-buttons'))
 

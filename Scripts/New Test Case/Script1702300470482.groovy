@@ -17,32 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
 WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.saucedemo.com')
 
-WebUI.navigateToUrl('https://provf.kualitee.com/')
+// Login (assumes you have a valid login script, e.g., Script 7)
+// ...
 
-WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
+// Logout
+WebUI.click(findTestObject('Object Repository/Swag Labs/Products Page/Menu Button'))
+WebUI.click(findTestObject('Object Repository/Swag Labs/Products Page/Logout Link'))
 
-WebUI.rightClick(findTestObject('Object Repository/inputemail_id'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
-
-WebUI.click(findTestObject('Object Repository/input_submit-btn'))
-
-WebUI.click(findTestObject('Object Repository/span'))
-
-WebUI.click(findTestObject('Object Repository/a_New Defect'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_Select Blocker Major Minor'), 'Major', true)
-
-WebUI.setText(findTestObject('Object Repository/input_description'), 'test')
-
-WebUI.click(findTestObject('Object Repository/button_Save'))
-WebUI.waitForElementVisible(findTestObject('Object Repository/span_Defects created successfully'), 30)
-text = WebUI.getText(findTestObject('Object Repository/span_Defects created successfully'))
-
-
-System.out.println(text)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Swag Labs/Login Page/Username Input'))
 
 WebUI.closeBrowser()
 

@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI
 
 WebUI.click(findTestObject('Object Repository/input_submit-btn'))
 
-WebUI.click(findTestObject('Object Repository/span'))
+WebUI.click(findTestObject('Object Repository/span_1'))
 
 WebUI.click(findTestObject('Object Repository/a_New Test Case'))
 

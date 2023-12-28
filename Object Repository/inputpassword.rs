@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>407a4503-dde1-4bbb-9b0f-329aeed7c660</webElementGuid>
+      <webElementGuid>4c4b20b7-5239-4c5a-b388-79d068d527e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>6dd7dbba-bc1b-4ebc-88e0-a0593e2684b0</webElementGuid>
+      <webElementGuid>1e57f519-e775-4121-b7ff-bb6300d2a725</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>ef60b77f-11bc-4a02-a27a-96074f5c21fe</webElementGuid>
+      <webElementGuid>0bda8102-6ad3-4320-ab36-664da9d18975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>3998062c-c163-49b4-8eb4-4c01e850ab16</webElementGuid>
+      <webElementGuid>004cac31-92f5-455c-8f33-6b0b02fa83ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>***********</value>
-      <webElementGuid>838cdbe5-e730-4ad4-8ac0-035cf8b1aa81</webElementGuid>
+      <webElementGuid>b86c15f1-2e13-4386-b63f-cecf381b33bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input-field form-control ng-untouched ng-dirty ng-valid</value>
-      <webElementGuid>9f33324a-ea02-4bfb-a491-871d5f3e5de0</webElementGuid>
+      <value>input-field form-control ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>ea127ded-c765-4135-ab57-56d92a6d0103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>ae6d910f-a2ba-4266-819b-9976cbc4d721</webElementGuid>
+      <webElementGuid>ca6bdb85-d4a9-48b0-929e-d95d83983cfe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>19beff85-e127-43b9-905d-48427b9f751e</webElementGuid>
+      <webElementGuid>0c721ca9-2889-45e4-a237-e35fcfa3f043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>73e9ee20-3cb1-424f-a10a-05ecea189883</webElementGuid>
+      <webElementGuid>829d33c0-5c11-4295-b14d-83b264f8dd2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password' and @type = 'password' and @placeholder = '***********']</value>
-      <webElementGuid>0637e698-0470-42f9-aaff-d540e8b620b8</webElementGuid>
+      <webElementGuid>7973a71d-9718-4793-b5c1-bc686c2cc912</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test Case created successfully</name>
+   <tag></tag>
+   <elementGuidId>ec055bbf-9b51-4cbd-b635-21a42185871f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c1-16.to-message.toastr-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3fe7a9cc-70af-4035-a433-8b503204f915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-16 to-message toastr-message ng-star-inserted</value>
+      <webElementGuid>a2aa26ff-1817-4a51-a66b-7abe7dc892d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Case created successfully</value>
+      <webElementGuid>e208a681-b72f-411e-8410-d2a96144feb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastr-container&quot;)/div[@class=&quot;ng-trigger ng-trigger-inOut ng-tns-c1-16 toastr toastr-success ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-16&quot;]/span[@class=&quot;ng-tns-c1-16 to-message toastr-message ng-star-inserted&quot;]</value>
+      <webElementGuid>b2f340fa-dc16-46e1-8913-dd8064fc9080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      <webElementGuid>53ba3250-222c-4c07-b5cb-fde4f60e135d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>8186de89-8a91-4b74-a147-17d41e94fcde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test Case created successfully' or . = 'Test Case created successfully')]</value>
+      <webElementGuid>d9000157-bb61-4a19-b3f8-2e5c8fd2fe2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

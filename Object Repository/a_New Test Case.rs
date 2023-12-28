@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>80720073-605c-4427-bbf2-8eda19cd6a1b</webElementGuid>
+      <webElementGuid>2cc5023c-b442-4c1c-b2c1-bc2507067ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tour-test-case-create-btn</value>
-      <webElementGuid>1c8e7c78-d045-4201-b0ea-ce8579554399</webElementGuid>
+      <webElementGuid>4ad3b61d-fb9c-4e90-b3a8-6176998e96c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:</value>
-      <webElementGuid>9af01029-3945-4d1d-b3d4-cf72ce5c44a0</webElementGuid>
+      <webElementGuid>0cb3b329-d60b-402e-a2f6-83750c91eff7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>routerlinkactive</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>e918b624-a336-4fea-9741-6e835486a7c1</webElementGuid>
+      <webElementGuid>c604eab1-3821-4824-8b61-5a45d613d7ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>create-button ng-star-inserted</value>
-      <webElementGuid>b16f3624-a467-42a4-9ce0-c5a00c0784c5</webElementGuid>
+      <webElementGuid>75ffef77-55b4-4b1d-ac89-6995f0255750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>New Test Case </value>
-      <webElementGuid>155080e5-9762-4c65-ba79-a1db00aaac98</webElementGuid>
+      <webElementGuid>e857156f-75ef-4cd8-b3d7-e1c9be70a576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tour-test-case-create-btn&quot;)</value>
-      <webElementGuid>148e4a94-ee04-4872-a2e3-3f6dee2eb3ba</webElementGuid>
+      <webElementGuid>0a6ec49d-28f7-4be4-8b9a-c7f73078890c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='tour-test-case-create-btn']</value>
-      <webElementGuid>94e5a886-afd7-4a1c-97f7-62e8c9f4377a</webElementGuid>
+      <webElementGuid>39b0a414-197f-41bc-8096-1b76fb8d1841</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'New Test Case')])[2]</value>
-      <webElementGuid>11a4baa3-15f9-412e-86c2-c99eedf5fc62</webElementGuid>
+      <webElementGuid>80f1d816-d38e-45c1-8499-90292d97a357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:')])[13]</value>
-      <webElementGuid>78da9585-a31d-43eb-b949-c91228007c40</webElementGuid>
+      <webElementGuid>46d1cc89-5196-4a02-8032-f2d8a457a72a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/a</value>
-      <webElementGuid>eef017c7-5215-4b97-8ef8-00674f120e0c</webElementGuid>
+      <webElementGuid>11ead1bc-2f0b-4f0e-9a9f-3129be57c234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'tour-test-case-create-btn' and @href = 'javascript:' and (text() = 'New Test Case ' or . = 'New Test Case ')]</value>
-      <webElementGuid>50767629-f2fe-44c0-9eac-5004000ecfff</webElementGuid>
+      <webElementGuid>282e0756-a2b0-4572-a271-47cef843ab6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span</name>
+   <name>span_1</name>
    <tag></tag>
    <elementGuidId>36a7d480-1eb5-4688-b0a5-492a6e322f3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='sidebar-holder-mobile']/ul/li[5]/a/span</value>
+         <value>//li[@id='tour-test-management-btn']/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#tour-test-management-btn > a.br-sb-buttons > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,30 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2120d0ea-9aba-4147-bbd7-b269862ceed0</webElementGuid>
+      <webElementGuid>0b761536-1676-4d8d-9965-450cf450efa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;sidebar-holder-mobile&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;br-sb-buttons&quot;]/span[1]</value>
-      <webElementGuid>302e5659-1855-40f2-8cf5-9bb75cc21edb</webElementGuid>
+      <value>id(&quot;tour-test-management-btn&quot;)/a[@class=&quot;br-sb-buttons&quot;]/span[1]</value>
+      <webElementGuid>950afb98-7e51-40a1-92e9-583e977845c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='sidebar-holder-mobile']/ul/li[5]/a/span</value>
-      <webElementGuid>e83aaae6-becc-4b94-a4e4-3e35f099580c</webElementGuid>
+      <value>//li[@id='tour-test-management-btn']/a/span</value>
+      <webElementGuid>a4dbcde5-1999-4ccf-9647-8eb0d2803b87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>36c3ce86-f032-489d-b129-9a6543c8a601</webElementGuid>
+      <value>//div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>8d429dff-95d6-4c52-b84c-205981d05dcf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

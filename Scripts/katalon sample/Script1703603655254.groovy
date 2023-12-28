@@ -1,4 +1,5 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -19,49 +20,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://kualiteedemo.kualitee.com')
-
-WebUI.click(findTestObject('Object Repository/inputemail_id'))
+WebUI.navigateToUrl('https://kualiteedemo.kualitee.com/')
 
 WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'shahrukh.khaliq@kualitatem.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'MV9KurHwBdXuN2kGL7auTg==')
 
-WebUI.sendKeys(findTestObject('Object Repository/inputpassword'), Keys.chord(Keys.ENTER))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Defects created'), 10)
-
-alert = WebUI.getText(findTestObject('Object Repository/Defects created'))
-
-System.out.println(alert)
-
-String expectedText = 'Invalid credentials.'
-
-if (!(expectedText.equals(alert))) {
-    // Strings are not equal
-    KeywordUtil.markFailed("Text comparison failed! Expected: $expectedText, Actual: $actualText")
-}
-
-WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
-
 WebUI.click(findTestObject('Object Repository/input_submit-btn'))
+
+WebUI.rightClick(findTestObject('Object Repository/span_1'))
 
 WebUI.click(findTestObject('Object Repository/span_1'))
 
-WebUI.click(findTestObject('Object Repository/a_New Defect'))
+WebUI.click(findTestObject('Object Repository/span_1'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_Select Blocker Major Minor'), 'Major', true)
+WebUI.click(findTestObject('Object Repository/a_New Test Case'))
 
-WebUI.setText(findTestObject('Object Repository/input_description'), 'demo katalon studio')
+WebUI.setText(findTestObject('Object Repository/input_tc_name'), 'xsdsd')
+
+WebUI.setText(findTestObject('Object Repository/textarea_summary'), 'sdfsdfsdf')
 
 WebUI.click(findTestObject('Object Repository/button_Save'))
 
-//WebUI.verifyElementNotPresent(findTestObject('Object Repository/div_block-ui-wrapper block-ui-main active'), 10)
-WebUI.waitForElementPresent(findTestObject('Object Repository/span_Defects created successfully'), 10)
-
-text = WebUI.getText(findTestObject('Object Repository/span_Defects created successfully'))
-
-System.out.println(text)
+WebUI.click(findTestObject('Object Repository/button_Save'))
+WebUI.takeScreenshot('Defect_Created_Successfully')
 
 WebUI.closeBrowser()
 

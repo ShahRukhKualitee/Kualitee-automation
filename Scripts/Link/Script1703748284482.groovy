@@ -16,32 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.saucedemo.com')
 
-WebUI.navigateToUrl('https://provf.kualitee.com/')
+WebUI.click(findTestObject('Object Repository/Swag Labs/Footer/About Us Link'))
+WebUI.verifyTitle('About Swag Labs')
 
-WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'Perf/123')
+WebUI.click(findTestObject('Object Repository/Swag Labs/Footer/Contact Us Link'))
+WebUI.verifyTitle('Contact Swag Labs')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/inputpassword'), 'v3kAI8dBmpbvybN/9lFmqA==')
-
-WebUI.click(findTestObject('Object Repository/i_Control Your Entire Testing Process From _19f0f3'))
-
-WebUI.setText(findTestObject('Object Repository/inputemail_id'), 'faran.khurshid+0002@kualitatem.com')
-
-WebUI.click(findTestObject('Object Repository/i_Control Your Entire Testing Process From _19f0f3'))
-
-WebUI.click(findTestObject('Object Repository/input_submit-btn'))
-
-WebUI.click(findTestObject('Object Repository/span_1'))
-
-WebUI.click(findTestObject('Object Repository/a_DEF-278045'))
-
-WebUI.click(findTestObject('Object Repository/button_Edit'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/select_SelectBuild2Build3build1'), '21227', true)
-
-WebUI.click(findTestObject('Object Repository/button_Update'))
-
-WebUI.click(findTestObject('Object Repository/div_Success'))
+WebUI.closeBrowser()
 
