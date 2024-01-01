@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_add sso settings</name>
+   <tag></tag>
+   <elementGuidId>92beb90f-602a-433a-a38f-f2fb5145e8aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c1-0.to-message.toastr-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75ddfe79-be57-49cc-bad4-32a7c66decdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c1-0 to-message toastr-message ng-star-inserted</value>
+      <webElementGuid>2fd1d617-368b-4fd5-a402-ff514d7beb37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add sso settings</value>
+      <webElementGuid>ed8ae141-6dc9-4c1a-b4c2-8ab3a9429842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toastr-container&quot;)/div[@class=&quot;ng-trigger ng-trigger-inOut ng-tns-c1-0 toastr toastr-error ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c1-0&quot;]/span[@class=&quot;ng-tns-c1-0 to-message toastr-message ng-star-inserted&quot;]</value>
+      <webElementGuid>4cf717cf-bd7c-4761-b47f-998fdc25dac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toastr-container']/div/div[2]/span</value>
+      <webElementGuid>932f460a-61e8-4b94-bde3-e114569f8252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>d48be7ab-d4fc-43b9-9009-189285117d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'add sso settings' or . = 'add sso settings')]</value>
+      <webElementGuid>58670d15-52eb-4c98-aa72-a79b54e1fec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
